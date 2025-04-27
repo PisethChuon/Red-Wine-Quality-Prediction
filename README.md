@@ -4,48 +4,48 @@ This project leverages machine learning to predict wine quality based on various
 
 ## 📊 Dataset
 
-The dataset used is the Wine Quality dataset from the UCI Machine Learning Repository. It includes the following physicochemical attributes:
+The dataset used is the [Wine Quality dataset](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009) from the UCI Machine Learning Repository. It includes the following physicochemical attributes:
 
-- Fixed acidity  
-- Volatile acidity  
-- Citric acid  
-- Residual sugar  
-- Chlorides  
-- Free sulfur dioxide  
-- Total sulfur dioxide  
-- Density  
-- pH  
-- Sulphates  
-- Alcohol  
-- Quality (score from 0 to 10)  
+- Fixed acidity
+- Volatile acidity
+- Citric acid
+- Residual sugar
+- Chlorides
+- Free sulfur dioxide
+- Total sulfur dioxide
+- Density
+- pH
+- Sulphates
+- Alcohol
+- Quality (score from 0 to 10)
 
 ## 🧠 Models Used
 
 The following machine learning models were trained and compared:
 
-- Linear Regression  
-- Decision Tree  
-- Random Forest  
-- Support Vector Machine  
-- XGBoost (optional)  
+- Linear Regression
+- Decision Tree
+- Random Forest
+- Support Vector Machine
+- XGBoost (optional)
 
 ## 🧪 Evaluation Metrics
 
 To evaluate model performance, the following metrics were used:
 
-- Accuracy  
-- Precision / Recall / F1-score  
-- Confusion Matrix  
-- Mean Squared Error (for regression tasks)  
+- Accuracy
+- Precision / Recall / F1-score
+- Confusion Matrix
+- Mean Squared Error (for regression tasks)
 
 ## 🔍 Exploratory Data Analysis
 
 A thorough Exploratory Data Analysis (EDA) was conducted to:
 
-- Understand data distributions  
-- Handle missing values  
-- Normalize and scale features  
-- Visualize correlations using heatmaps and pair plots  
+- Understand data distributions
+- Handle missing values
+- Normalize and scale features
+- Visualize correlations using heatmaps and pair plots
 
 ## 🛠️ How to Run
 
