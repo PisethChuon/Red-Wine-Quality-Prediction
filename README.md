@@ -2,9 +2,12 @@
 
 This project leverages machine learning to predict wine quality based on various physicochemical properties. It was developed as part of an academic assignment to explore data preprocessing, model training, and evaluation techniques using a real-world dataset.
 
+# Understanding the different features of wine quality parameter
+
 ## 📊 Dataset
 
 The dataset used is the [Wine Quality dataset](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009) from the UCI Machine Learning Repository. It includes the following physicochemical attributes:
+
 - Fixed acidity
 - Volatile acidity
 - Citric acid
