@@ -38,42 +38,10 @@ The dataset used is the [Wine Quality dataset](https://www.kaggle.com/datasets/u
 
 The following machine learning models were trained and compared:
 
-- Linear Regression
+- Logistic Regression
 - Decision Tree
 - Random Forest
-- Support Vector Machine
-- XGBoost (optional)
-
-## 🧪 Evaluation Metrics
-
-To evaluate model performance, the following metrics were used:
-
-- Accuracy
-- Precision / Recall / F1-score
-- Confusion Matrix
-- Mean Squared Error (for regression tasks)
-
-## 🔍 Exploratory Data Analysis
-
-A thorough Exploratory Data Analysis (EDA) was conducted to:
-
-- Understand data distributions
-- Handle missing values
-- Normalize and scale features
-- Visualize correlations using heatmaps and pair plots
-
-## 🛠️ How to Run
-
-Instructions on how to set up and run the project will be provided here.
-
-## 📈 Results
-
-A summary of the model performance and key findings will be detailed here.
-
-## 📌 Future Improvements
-
-Potential enhancements and next steps for the project will be outlined here.
 
 ## 👨‍💻 Author
 
-Details about the author and contributors will be added here.
+@PisethChuon
